@@ -14,3 +14,5 @@ but can easily be adapted to other flight planning software.
 
 
 Was coded in Processing 1.5.1 with G4P library for the user Interface
+
+Compiled binaries for Win/Linux/MacOS can be found under "Releases"
